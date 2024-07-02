@@ -166,7 +166,7 @@ nav button:hover {
     border-radius: 10px;
     padding: 30px;
     border-bottom: 4px solid transparent;
-    /* cursor: pointer; */
+    cursor: pointer;
     transition: all 0.3s ease;
 }
 
