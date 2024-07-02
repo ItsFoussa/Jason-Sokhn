@@ -131,8 +131,8 @@ nav button:hover {
 /* Skills Section */
 
 .bullet::before {
-    content: "•"; /* Unicode character for bullet point */
-    color: black; /* Bullet color */
+    content: "•"; 
+    color: black; 
     display: inline-block;
     width: 1em;
     margin-left: -1em;
@@ -166,7 +166,7 @@ nav button:hover {
     border-radius: 10px;
     padding: 30px;
     border-bottom: 4px solid transparent;
-    /* cursor: pointer; */
+    cursor: pointer;
     transition: all 0.3s ease;
 }
 
